@@ -1,14 +1,14 @@
-# Exercicos Basicos do CSS e HTML
-## 01 Exercico HTML
+# Exercícios Básicos do CSS e HTML
+## 01 Exercício HTML
 [<img src="./html-1.png">]
 
-## 02 Exercicio de imagem
+## 02 Exercício de Imagem
 [<img src="./image.png">]
 
-## 03 Execicio Paragrafos
+## 03 Exercício Parágrafos
 [<img src="./paragrafos.png">]
 
 # Tecnologias utilizadas
-### Exercicios basicos
+### Exercícios Básicos
 - HTML
 - CSS
